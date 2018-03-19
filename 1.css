@@ -1,0 +1,26 @@
+body{
+    margin : 0;
+}
+
+#title{
+    text-align : center;
+}
+#main{
+    max-width : 1000px;
+    min-height : 200px;
+    border : 1px solid white;
+    margin : auto;
+    text-align : center;
+}
+
+#nav{
+    text-align : center;
+}
+
+#nav div{
+    display : inline-block;
+    padding : 5px;
+    border : 1px solid white;
+    margin : 15px;
+    cursor: pointer;
+}
